@@ -1,19 +1,46 @@
-# Hi there 👋  
-**I'm Sr. Software Developer**
+<h1 align="center">Hi there 👋 I'm Kubilay Özyalçın</h1>
+<h3 align="center">Sr. Software Developer | .NET Backend Specialist | Cloud & Architecture Enthusiast</h3>
 
-With over 12 years of experience as a .NET Developer, I specialize in designing and implementing high-performance, scalable, and secure software solutions tailored to diverse business needs. I have extensive expertise in creating robust architectures using **Dapper** and **Entity Framework Core**, optimizing data access, and enhancing system performance through efficient caching mechanisms like **Redis**.
+<p align="center">
+  🔭 Currently working on <b>LLMs, RAG, Agents</b> <br/>
+  🌐 Passionate about building scalable & secure cloud-native solutions <br/>
+  ☁️ Embracing the power of <b>Docker, Kubernetes, and CI/CD</b> <br/>
+</p>
 
-My experience spans **microservices architecture**, **RESTful API development**, and **enterprise ERP integrations** with industry-leading systems such as **SAP**, **Microsoft Dynamics**, **Salesforce**, **Logo**, **Mikro**, and **Netsis**, among others. I design dynamic and scalable ERP or CRM-to-client integration solutions, ensuring seamless business operations and data flow.
-
-In addition, I have a strong background in **containerization** and **orchestration technologies**, including **Docker** and **Kubernetes**, enabling the deployment of scalable and fault-tolerant applications in modern cloud environments. My expertise includes designing **CI/CD pipelines** to ensure efficient and automated deployments.
-
-I am well-versed in **application lifecycle management**, leveraging tools like **SonarCloud** for code quality assurance and adhering to **SOLID principles** for clean and maintainable codebases. My proficiency in **RabbitMQ** with **MassTransit** ensures resilient and fault-tolerant messaging systems in distributed environments.
-
-A dedicated problem solver and technology enthusiast, I continuously strive to leverage modern tools and frameworks to deliver innovative, robust, and scalable solutions that drive organizational success.
+<p align="center">
+  <a href="https://www.linkedin.com/in/kubilayozyalcin" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kubilay@example.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-blog-url.com">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-FF9900?style=for-the-badge&logo=wordpress&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubilayozyalcin&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubilayozyalcin&layout=compact&theme=radical)
+With over **12 years** of experience as a .NET Developer, I specialize in crafting high-performance, scalable, and secure software solutions tailored to dynamic business environments.
+
+- 🔧 Expert in **C#, .NET Core**, **Dapper**, **Entity Framework Core**
+- 🔁 Strong with **RabbitMQ**, **MassTransit**, and **resilient messaging systems**
+- 💾 Solid command of **Redis**, **SQL Server**, and data optimization
+- ☁️ Containerization with **Docker** & orchestration via **Kubernetes**
+- 🔄 CI/CD pipelines design & automation using modern DevOps tools
+- 🛡️ Clean architecture & SOLID principles | Code quality via **SonarCloud**
+
+---
+
+## 🧠 Tech Stack
+
+```text
+Languages:      C#, SQL, JavaScript
+Frameworks:     .NET 6/7, ASP.NET Core, EF Core, Dapper, MediatR
+Messaging:      RabbitMQ, MassTransit
+Databases:      SQL Server, Redis, MongoDB
+DevOps:         Docker, Kubernetes, GitHub Actions, GitLab CI
+Cloud & Infra:  Azure, AWS (basic), Linux, Nginx
+Design:         SOLID, Clean Architecture, Microservices, CQRS
