@@ -37,7 +37,7 @@ With over **12 years** of experience as a .NET Developer, I specialize in crafti
 ## 🧠 Tech Stack
 
 ```text
-Languages:      C#, SQL, JavaScript
+Languages:      C#, SQL, Python, Xamarin, Flutter
 Frameworks:     .NET 6/7, ASP.NET Core, EF Core, Dapper, MediatR
 Messaging:      RabbitMQ, MassTransit
 Databases:      SQL Server, Redis, MongoDB
