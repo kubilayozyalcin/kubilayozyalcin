@@ -1,5 +1,5 @@
 # Hi there 👋  
-**Sr. Software Developer**
+**I'm Sr. Software Developer**
 
 With over 12 years of experience as a .NET Developer, I specialize in designing and implementing high-performance, scalable, and secure software solutions tailored to diverse business needs. I have extensive expertise in creating robust architectures using **Dapper** and **Entity Framework Core**, optimizing data access, and enhancing system performance through efficient caching mechanisms like **Redis**.
 
