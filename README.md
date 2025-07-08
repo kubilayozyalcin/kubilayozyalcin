@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/kubilayozyalcin" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:lingoontech@gmail">
+  <a href="mailto:lingoontech@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
