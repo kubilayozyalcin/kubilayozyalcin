@@ -14,6 +14,9 @@
   <a href="mailto:lingoontech@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+   <a href="https://www.chironia.app" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-9146FF?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+  </a>
 </p>
 
 ---
