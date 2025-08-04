@@ -38,7 +38,7 @@ With over **15 years** of experience as a .NET Developer, I specialize in crafti
 
 ```text
 Languages:      C#, SQL, Python, Xamarin, Flutter
-Frameworks:     .NET 6/7, ASP.NET Core, EF Core, Dapper, MediatR
+Frameworks:     .NET 5/8, ASP.NET Core, EF Core, Dapper, MediatR
 Messaging:      RabbitMQ, MassTransit
 Databases:      SQL Server, Redis, MongoDB
 DevOps:         Docker, Kubernetes, GitHub Actions, GitLab CI
