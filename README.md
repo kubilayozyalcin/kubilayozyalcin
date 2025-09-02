@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-With over **15 years** of experience as a .NET Developer, I specialize in crafting high-performance, scalable, and secure software solutions tailored to dynamic business environments.
+With over **12 years** of experience as a .NET Developer, I specialize in crafting high-performance, scalable, and secure software solutions tailored to dynamic business environments.
 
 - 🔧 Expert in **C#, .NET Core**, **Dapper**, **Entity Framework Core**
 - 🔁 Strong with **RabbitMQ**, **MassTransit**, and **resilient messaging systems**
