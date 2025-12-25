@@ -23,7 +23,11 @@
 
 ## 👨‍💻 About Me
 
-With over **12 years** of experience as a .NET Developer, I specialize in crafting high-performance, scalable, and secure software solutions tailored to dynamic business environments.
+Senior Backend Engineer and Platform & Architecture Lead with 12+ years of experience designing and building scalable, multi tenant, event-driven SaaS platforms.
+
+Specialized in microservices architecture, CQRS, distributed systems, and cloud native infrastructure, with strong ownership of system foundations including API Gateway, Identity, Tenant isolation, Observability, CI/CD, and messaging infrastructure.
+
+Proven track record of leading backend architecture from scratch, defining technical standards, quality gates, and operational readiness for enterprise grade, high scale systems.
 
 - 🔧 Expert in **C#, .NET Core**, **Dapper**, **Entity Framework Core**
 - 🔁 Strong with **RabbitMQ**, **MassTransit**, and **resilient messaging systems**
