@@ -7,7 +7,7 @@
   ☁️ Embracing the power of <b>Docker, Kubernetes, and CI/CD</b> <br/>
 </p>
 
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap:12px;">
   <a href="https://www.linkedin.com/in/kozyalcin" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
