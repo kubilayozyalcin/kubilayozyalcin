@@ -25,16 +25,16 @@
 
 ---
 
-## 👨‍💻 About Me
+## ◍ About Me
 
-Senior Backend Engineer and **Platform &amp; Architecture Lead** with **12+ years** of experience designing and building scalable, multi-tenant, event-driven SaaS platforms — now extending that foundation into **AI-native, LLM-powered systems**.
+Senior Backend Engineer and **Platform &amp; Architecture Lead** with **12+ years** of experience designing and building scalable, multi-tenant, event-driven SaaS platforms, now extending that foundation into **AI-native, LLM-powered systems**.
 
 Specialized in **microservices architecture, CQRS, distributed systems, and cloud-native infrastructure**, with strong ownership of system foundations including API Gateway, Identity, Tenant Isolation, Observability, CI/CD, and messaging infrastructure.
 
-Today I combine that backend depth with **applied AI** — building **RAG pipelines, agentic workflows, semantic search, and NL→SQL** features directly on top of production data platforms.
+Today I combine that backend depth with **applied AI**, building **RAG pipelines, agentic workflows, semantic search, and NL→SQL** features directly on top of production data platforms.
 
 - 🔧 Expert in **C#, .NET 8**, **Dapper**, **Entity Framework Core**, **MediatR**
-- 🤖 Building **LLM / RAG / Agent** systems with **OpenAI, Claude, Semantic Kernel &amp; pgvector**
+- 🤖 Building **LLM / RAG / Agent** systems with **Claude, Semantic Kernel, pgvector &amp; Qdrant**
 - 🔁 Strong with **RabbitMQ**, **MassTransit**, **Kafka** and **resilient messaging systems**
 - 💾 Solid command of **PostgreSQL, ClickHouse, Redis, SQL Server** and data optimization
 - ☁️ Containerization with **Docker** &amp; orchestration via **Kubernetes** on **Azure / AWS**
@@ -42,23 +42,31 @@ Today I combine that backend depth with **applied AI** — building **RAG pipeli
 
 ---
 
-## 🤖 AI / ML / LLM
+## ◍ AI / ML / LLM
 
 ```text
-LLM & Agents:   OpenAI, Anthropic Claude, Semantic Kernel, LangChain, Function/Tool Calling
-RAG & Search:   pgvector, Embeddings, Hybrid Search, Re-ranking, NL→SQL
-ML & Data:      Python, PyTorch, scikit-learn, Hugging Face, Pandas
+LLM & Agents:   Anthropic Claude, Semantic Kernel, LangChain, Function/Tool Calling
+RAG & Search:   pgvector, Qdrant, Embeddings, Hybrid Search, Re-ranking, NL→SQL
+ML & Data:      Python, Hugging Face, Pandas
 Use Cases:      Agentic workflows, Semantic enrichment, Forecasting, Anomaly detection
 ```
 
 ---
 
-## 🧠 Tech Stack
+## ◍ Tech Stack
+
+**Languages**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**AI &amp; Vector**
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
@@ -66,24 +74,25 @@ Use Cases:      Agentic workflows, Semantic enrichment, Forecasting, Anomaly det
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+**Messaging**
+
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![MassTransit](https://img.shields.io/badge/MassTransit-2D2D2D?style=for-the-badge&logo=.net&logoColor=white)
 
+**Cloud, Scaling &amp; Observability**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-## 🟩 Contribution Graph
+## ◍ Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kubilayozyalcin&theme=tokyo-night&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&hide_border=true&area=true" alt="Contribution Graph" />
