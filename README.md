@@ -83,31 +83,10 @@ Use Cases:      Agentic workflows, Semantic enrichment, Forecasting, Anomaly det
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kubilayozyalcin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubilayozyalcin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubilayozyalcin&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
----
-
 ## 🟩 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kubilayozyalcin&theme=tokyo-night&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kubilayozyalcin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
