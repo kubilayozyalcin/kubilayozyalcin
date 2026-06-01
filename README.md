@@ -27,7 +27,7 @@
 
 ## ◍ About Me
 
-Senior Backend Engineer and **Platform &amp; Architecture Lead** with **12+ years** of experience designing and building scalable, multi-tenant, event-driven SaaS platforms, now extending that foundation into **AI-native, LLM-powered systems**.
+Senior Backend Engineer with **12+ years** of experience designing and building scalable, multi-tenant, event-driven SaaS platforms, now extending that foundation into **AI-native, LLM-powered systems**.
 
 Specialized in **microservices architecture, CQRS, distributed systems, and cloud-native infrastructure**, with strong ownership of system foundations including API Gateway, Identity, Tenant Isolation, Observability, CI/CD, and messaging infrastructure.
 
@@ -89,14 +89,6 @@ Use Cases:      Agentic workflows, Semantic enrichment, Forecasting, Anomaly det
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
----
-
-## ◍ Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kubilayozyalcin&theme=tokyo-night&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
 
 ---
 
